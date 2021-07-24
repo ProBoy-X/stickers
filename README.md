@@ -13,6 +13,11 @@ For iOS developers please read the [IMPORTANT NOTICE ABOUT iOS APPS](#please-rea
 
 **Stickers on WhatsApp must be legal, authorized and acceptable.** Learn more about acceptable uses of our services from our [Terms of Service](https://www.whatsapp.com/legal/#terms-of-service).
 
+## Credits :-
+
+![Jass Manak](https://github.com/jassmanak1125)
+![On Telegram](https://t.me/Its_JassManak)
+
 ## Get started :rocket:
 
 To get started, review the `README` files in the [Android](https://github.com/WhatsApp/stickers/tree/master/Android) or [iOS](https://github.com/WhatsApp/stickers/tree/master/iOS) folders, and refer to the [FAQ](https://faq.whatsapp.com/general/26000226).
