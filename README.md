@@ -15,8 +15,9 @@ For iOS developers please read the [IMPORTANT NOTICE ABOUT iOS APPS](#please-rea
 
 ## Credits :-
 
-![Jass Manak](https://github.com/jassmanak1125)
-![On Telegram](https://t.me/Its_JassManak)
+[Jass Manak](https://github.com/jassmanak1125)
+
+[Contact me on Telegram](https://t.me/Its_JassManak)
 
 ## Get started :rocket:
 
